@@ -1,2 +1,2 @@
-# mining-chinese-
+# mining-chinese
  уурхайн хятад хэлний офлайн сургалтын апп
